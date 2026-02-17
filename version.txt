@@ -1,0 +1,15 @@
+ATLAS v1.0
+Full form: Adaptive Technical Local Assistant System
+Status: Stable Frozen Build
+
+Features:
+- Offline LLM (Ollama)
+- Neural TTS (Piper) with sentence chunking
+- Wake-word + push-to-talk
+- Auto-sleep & clean re-wake
+- Short-term + explicit long-term memory
+- Safety guardrails
+- Date/time grounding
+
+Notes:
+This build is frozen. No modifications.

@@ -1,0 +1,11 @@
+## SYSTEM DEPENDENCIES (Manual Install)
+
+- Ollama (Windows)
+- Piper TTS (binary)
+- FFmpeg / FFplay
+- NVIDIA GPU + CUDA (optional but recommended)
+
+## Tested on:
+- Windows 11
+- Python 3.10.x
+- RTX 20xx+ GPU

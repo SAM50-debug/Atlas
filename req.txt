@@ -1,0 +1,30 @@
+# ===============================
+# ATLAS v1.0 — Frozen Build
+# Adaptive Technical Local Assistant System
+# ===============================
+
+# --- Core Runtime ---
+python-dateutil>=2.8.2
+keyboard>=0.13.5
+
+# --- Speech-to-Text ---
+sounddevice>=0.4.6
+numpy>=1.23
+librosa>=0.10.1
+faster-whisper>=1.0.0
+
+# --- Text-to-Speech ---
+pyttsx3>=2.90
+
+# --- LLM Interface ---
+ollama>=0.1.0
+
+# --- Safety & Utilities ---
+regex>=2023.10.3
+
+# --- New ---
+keyboard
+sounddevice
+numpy
+librosa
+regex
